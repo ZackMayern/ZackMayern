@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZackMayern&label=Profile%20views&color=0e75b6&style=flat" alt="ZackMayern" /> </p>
 
-![snake gif](https://github.com/ZackMayern/ZackMayern/blob/output/github-contribution-grid-snake.svg)
-
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ZackMayern&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
-
-
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
